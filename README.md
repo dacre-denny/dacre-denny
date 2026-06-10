@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><img src="https://github-readme-streak-stats-five-theta.vercel.app/?user=dacre-denny&hide_border=false&background=212529&border=beffbe&stroke=beffbe&ring=beffbe&fire=beffbe&currStreakNum=beffbe&sideNums=beffbe&currStreakLabel=beffbe&sideLabels=beffbe&dates=beffbe"/></p>
 
 <!--
 **dacre-denny/dacre-denny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
